@@ -19,5 +19,4 @@ def auto():
             print(word_text)
         time.sleep(2)
         browser.close()
-if __name__ == '__main__':
-    auto()
+auto()
